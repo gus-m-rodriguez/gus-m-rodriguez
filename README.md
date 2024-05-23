@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi! I´m Gustavo
+🔭 I’m currently working on Alcalis de la Patagonia
+👁️ I´m Interested in Programming and Systems and off course 📖📺
+🧑‍🎓 I am currently studying Systems Engineering and Programming Technician.
